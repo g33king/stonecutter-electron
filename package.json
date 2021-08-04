@@ -31,6 +31,6 @@
         "electron-builder": "^22.9.1",
         "less": "^4.1.0",
         "mocha": "^8.2.1",
-        "spectron": "^13.0.0"
+        "spectron": "^15.0.0"
     }
 }
