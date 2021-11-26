@@ -20,7 +20,7 @@
     },
     "homepage": "https://stonecutter.org/",
     "dependencies": {
-        "electron-mocha": "^10.0.0",
+        "electron-mocha": "^11.0.0",
         "jquery": "^3.5.1",
         "js-yaml": "^4.0.0",
         "xvfb": "^0.4.0",
